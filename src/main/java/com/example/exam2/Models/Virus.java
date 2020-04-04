@@ -79,5 +79,5 @@ public Virus(int id,String name, String description, String symptoms, int durati
     public void setImage(String image) {
         this.image = image;
     }
-//final check
+//final check 2
 }
